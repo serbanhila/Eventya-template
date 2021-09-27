@@ -1,3 +1,6 @@
+body{
+    overflow-x: hidden;
+}
 .navbar-style{
     padding-top: 2em;
 }
@@ -8,11 +11,11 @@
 
 .sectioncontainer{
     position: relative;
-    left: 15px;
+    left: 0.9375em;
     box-sizing: border-box;
-    width: 1905px;
-    padding-left: 0px;
-    padding-right: 0px;
+    width: 119.0625em;
+    padding-left: 0em;
+    padding-right: 0em;
 }
 
 .nav-button1{
@@ -71,7 +74,7 @@ h3.h3-sm {
 }
 
 .navbar.scroll.bg-tra {
-    padding: 12px 0;
+    padding: 0.75em 0;
     background-color: #fcfcfc;
     box-shadow: 0 0 2px #fcfcfc;
 }
@@ -104,7 +107,7 @@ h3.h3-sm {
 
 .img-text{
     width: 100%;
-    height: 500px;
+    height: 31.25em;
     display: block;
     text-align: center;
     padding: 1em;
@@ -114,35 +117,35 @@ h3.h3-sm {
 }
 
 .containertestimonial{
-    width: 3200px;
-    height: 400px;
+    width: 200em;
+    height: 25em;
    
 }
 
 
 .slide-row{
     display: flex;
-    width: 6400px;
+    width: 400em;
 }
 
 .slide-col{
-    width: 535px;
-    height: 400px;
+    width: 33.4375em;
+    height: 25em;
     position: relative
 }
 
 .user-text{
     border-style: solid;
     border-color: whitesmoke;
-    width: 530px;
-    height: 330px;
+    width: 33.125em;
+    height: 20.625em;
     position: absolute;
     left: 0;
     top: 50%;
     transform: translateY(-50%);
     border-radius: 10px;
     color: black;
-    padding: 17px;
+    padding: 1.0625em;
     box-sizing: border-box;
     color: #666;
    
@@ -156,14 +159,14 @@ h3.h3-sm {
     height: 100%;
 }
 .user-text p{
-    font-size: 13px;
-    line-height: 20px;
+    font-size: 0.8125em;
+    line-height: 1.25em;
     font-style: italic;
     font-weight:400;
 }
 
 .user-text h3{
-    margin: 35px 0 5px;
+    margin: 2.1875em 0 0.3125em;
     color: black;
 }
 
@@ -188,17 +191,13 @@ ul.socialmedia li{
 
 .btnindicator{
     display: inline-block;
-    height: 15px;
-    width: 15px;
-    margin: 4px;
-    border-radius: 15px;
+    height: 0.9375em;
+    width: 0.9375em;
+    margin: 0.25em;
+    border-radius: 0.9375em;
     background: wheat;
     cursor: pointer;
     transition: 0.5s;
-}
-
-.active{
-    width: 40px;
 }
 
 .testimonial{
@@ -213,4 +212,7 @@ ul.socialmedia li{
     background-size: cover;
 }
 
+.spacingcol{
+    margin-bottom: 3em;
 
+}
