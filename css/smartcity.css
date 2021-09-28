@@ -1,0 +1,18 @@
+#firstsec{
+    background-image: url(/Users/serbanhila/work/Eventya-template/images/bg-smart-city-apps-11.jpeg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.white-color{
+    color: white;
+}
+
+.textcolor{
+    color: #40ACFA;
+}
+
+.button{
+    border-radius: 2em;
+}

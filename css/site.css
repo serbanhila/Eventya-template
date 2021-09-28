@@ -216,3 +216,7 @@ ul.socialmedia li{
     margin-bottom: 3em;
 
 }
+
+.slick-dots{
+    width: 57%!important;
+}

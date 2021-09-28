@@ -1,0 +1,17 @@
+.navbar-style{
+    padding-top: 2em!important;
+}
+
+.nav-link{
+    padding: 0.65rem 1.5rem!important;
+}
+
+.nav-button1{
+    box-sizing: content-box!important;
+}
+
+.navbar.scroll.bg-tra {
+    padding: 0.75em 0;
+    background-color: #fcfcfc;
+    box-shadow: 0 0 2px #fcfcfc;
+}
