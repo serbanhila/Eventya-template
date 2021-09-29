@@ -203,3 +203,7 @@ border-radius: 1em;
     .overlay h5{
         color: white;   
     }
+
+    .spacing{
+      margin-bottom: 2em;
+    }

@@ -16,3 +16,155 @@
 .button{
     border-radius: 2em;
 }
+
+.secondsection{
+    display: flex;
+    margin-top: 3em;
+    margin-bottom: 3em;
+}
+h1, h2, h3, h4, h5, h6 {
+    color: #222;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    letter-spacing: -0.025rem;
+}
+
+h3.h3-sm {
+    font-size: 2.5rem;
+}
+.cbox-txt {
+    background-color: #fff;
+    padding: 30px 30px 25px;
+    border: 1px solid #ccc;
+    -webkit-border-radius: 0 0 6px 6px;
+    -moz-border-radius: 0 0 6px 6px;
+    border-radius: 0 0 6px 6px;
+}
+
+.spacingcbox{
+    padding-top:3em;
+}
+
+.bg-lightgrey{
+    background-color: #f0f0f0 !important;
+}
+
+
+
+h4.h4-md {
+    font-size: 1.875rem;
+}
+
+p.p-lg {
+    font-size: 1.25rem;
+}
+
+.grey-color{
+    color: #666;
+}
+
+.review-1 {
+    text-align: center;
+    margin-bottom: 40px;
+    padding: 0 30px;
+    padding: 0;
+    -webkit-transform: scale(.9);
+    -ms-transform: scale(.9);
+    transform: scale(.9);
+    -webkit-transition: all 450ms ease-in-out;
+    -moz-transition: all 450ms ease-in-out;
+    -o-transition: all 450ms ease-in-out;
+    -ms-transition: all 450ms ease-in-out;
+    transition: all 450ms ease-in-out;
+}
+
+.slide-row{
+    display: flex;
+    width: 400em;
+}
+
+.slide-col{
+    width: 33.4375em;
+    height: 25em;
+    position: relative
+}
+
+.user-text{
+    border-style: solid;
+    border-color: whitesmoke;
+    width: 33.125em;
+    height: 20.625em;
+    position: absolute;
+    left: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    border-radius: 10px;
+    color: black;
+    padding: 1.0625em;
+    box-sizing: border-box;
+    color: #666;
+    background-color: white;
+}
+
+.user-img{
+    position: inherit;
+    margin: 18.5em 0em 0em 13em;
+    top: 0;
+    right: 0;
+    height: 100%;
+}
+.user-text p{
+    font-size: 0.8125em;
+    line-height: 1.25em;
+    font-style: italic;
+    font-weight:400;
+}
+
+.user-text h3{
+    margin: 2.1875em 0 0.3125em;
+    color: black;
+}
+
+.testimonial{
+    height: 31.25em;
+    padding-left: 8em;
+}
+
+#elevensec{
+    background-image: url(/Users/serbanhila/work/Eventya-template/images/officephoto.jpeg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.elevensectitle{
+    margin-top: 7em;   
+    font-size: 2.375em;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    letter-spacing: -0.025rem;
+}
+
+a{
+    color: #333;
+    text-decoration: none;
+}
+
+ul.socialmedia li{
+    display: inline;
+}
+
+.spacingbot{
+    padding-bottom: 5em;
+    padding-top: 3em;
+}
+
+.spacingtitle{
+    padding-bottom: 2em;
+}
+
+.centericon{
+    padding-left: 2em;
+    margin-bottom: 0.5em;
+    margin-top: 0.5em;
+}
