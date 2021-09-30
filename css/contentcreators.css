@@ -1,0 +1,63 @@
+#sectionfirst{
+    background-image: url(/Users/serbanhila/work/Eventya-template/images/content-creators-background.jpeg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.white-color{
+    color: white;
+}
+
+.rose-color{
+    color: #40ACFA;
+}
+
+.grey-color{
+    color: grey;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #222;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    letter-spacing: -0.025rem;
+}
+
+h3.h3-sm {
+    font-size: 2.5rem;
+    padding-top: 1em;
+}
+
+.cbox-txt {
+    background-color: #fff;
+    padding: 30px 30px 25px;
+    border: 1px solid #ccc;
+    -webkit-border-radius: 0 0 6px 6px;
+    -moz-border-radius: 0 0 6px 6px;
+    border-radius: 0 0 6px 6px;
+    height: 9.375em;
+}
+
+.bg-lightgrey{
+    background-color: #f0f0f0 !important;
+}
+
+.iconpad{
+    padding-left: 1.5em;
+}
+
+.iconm{
+    margin-bottom: 3em;
+}
+
+ul.socialmedia li{
+    display: inline;
+}
+
+#sectionnineth{
+    background-image: url(/Users/serbanhila/work/Eventya-template/images/officephoto.jpeg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}

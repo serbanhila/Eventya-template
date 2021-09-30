@@ -1,0 +1,106 @@
+#sectionone{
+    background-image: url(/Users/serbanhila/work/Eventya-template/images/church-background.jpeg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.white-color{
+    color: white;
+}
+
+.rose-color{
+    color: #40ACFA;
+}
+
+.grey-color{
+    color: grey;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #222;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    letter-spacing: -0.025rem;
+}
+
+h3.h3-sm {
+    font-size: 2.5rem;
+    padding-top: 1em;
+}
+
+.cbox-txt-church {
+    background-color: #fff;
+    padding: 30px 30px 25px;
+    border: 1px solid #ccc;
+    -webkit-border-radius: 0 0 6px 6px;
+    -moz-border-radius: 0 0 6px 6px;
+    border-radius: 0 0 6px 6px;
+    height: 22.375em;
+}
+
+.bg-lightgrey{
+    background-color: #f0f0f0 !important;
+}
+.iconpad{
+    padding-left: 1.5em;
+}
+
+.iconm{
+    margin-bottom: 3em;
+}
+
+.boxchurchright{
+    border-style: double;
+    border: 1px solid #ccc;
+    height: 25em;
+    width: 25em;
+    margin-top: 3em;
+    left: -8.6em;
+    padding-left: 6em;
+    background-color: #F0F0F0;
+}
+
+.boxchurchleft{
+    border-style: double;
+    border: 1px solid #ccc;
+    height: 25em;
+    width: 25em;
+    margin-top: 3em;
+    right: -8.6em;
+    padding-right: 9em;
+    background-color: #F0F0F0;
+}
+
+.review-2 .review-txt p {
+    font-size: 1.85rem;
+    line-height: 1.3;
+    font-weight: 500;
+    padding: 20px 8% 35px;
+}
+
+.review-2 img {
+    width: 80px;
+    height: 80px;
+    display: inline-block;
+    -webkit-border-radius: 100%;
+    -moz-border-radius: 100%;
+    -o-border-radius: 100%;
+    border-radius: 100%;
+    margin-left: 31em;
+}
+
+.review-author{
+    align-items: center;
+}
+
+#sectionnine{
+    background-image: url(/Users/serbanhila/work/Eventya-template/images/officephoto.jpeg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+ul.socialmedia li{
+    display: inline;
+}
